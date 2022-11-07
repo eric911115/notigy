@@ -1,2 +1,7 @@
-line-bot-sdk
-flask
+beautifulsoup4         
+bs4                    
+colorama               
+Flask                  
+frozenlist             
+line-bot-sdk           
+pip                    
